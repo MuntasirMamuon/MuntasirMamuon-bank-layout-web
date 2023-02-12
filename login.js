@@ -18,7 +18,7 @@ const passwordField = document.getElementById('user-password');
 const password = passwordField.value;
 
 
-if(email === 'sontan@gmail.com' && password === 'secret'){
+if(email === 'mamun@gmail.com' && password === 'mamun0186'){
    window.location.href ='bank.html' ;
 }
 else{
